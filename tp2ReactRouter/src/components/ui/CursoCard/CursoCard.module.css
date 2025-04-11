@@ -1,0 +1,48 @@
+.containerCardCurso {
+  margin-top: 10px;
+  display: flex;
+  gap: 4vh;
+}
+
+.cardCurso {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 25vh;
+  width: 25vw;
+  border-radius: 0.5rem;
+  background-color: #cac0b3;
+}
+
+.infoCardCurso {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2vh;
+}
+
+.infoCardCurso p {
+  font-size: 1.3rem;
+}
+
+.containerButtonCardCurso {
+  margin-top: 8px;
+}
+
+.button {
+  padding: 7px;
+  background-color: #001233;
+  border-radius: 0.4rem;
+  border: none;
+  color: white;
+  width: 7vw;
+  height: 4vh;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #041c47;
+}
