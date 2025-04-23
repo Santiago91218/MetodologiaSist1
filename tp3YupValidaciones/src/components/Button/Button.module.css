@@ -1,0 +1,17 @@
+.button {
+  font-size: 1rem;
+  width: 6vw;
+  padding: 6px;
+  border: 1px solid gray;
+  background-color: rgb(95, 175, 250);
+  border-radius: 0.4rem;
+}
+
+.button:hover {
+  background-color: rgb(70, 166, 255);
+}
+
+.disabled {
+  background-color: #9a9daa;
+  cursor: not-allowed;
+}

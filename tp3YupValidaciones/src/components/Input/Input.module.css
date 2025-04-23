@@ -1,0 +1,24 @@
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: self-start;
+  width: 70%;
+}
+
+.inputGroup label {
+  font-size: 20px;
+}
+
+.input {
+  width: 90%;
+  height: 3vh;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 0.4rem;
+  padding: 5px;
+}
+
+.errorText {
+  color: rgb(192, 32, 32);
+}

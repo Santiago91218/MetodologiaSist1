@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.containerApp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://previews.123rf.com/images/kostafly/kostafly1710/kostafly171000047/87403783-el-fondo-creativo-hermoso-fondo-para-un-sitio-o-formulario-consiste-en-formas-y-l%C3%ADneas-fant%C3%A1sticas.jpg");
+}
